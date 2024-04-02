@@ -43,7 +43,7 @@ IQBOTMULTI is designed to automate binary options trading across various forex c
 
 ## Usage
 
-1. Configure the bot's parameters such as API keys, trading strategy, risk management settings, etc., in the `config.py` file.
+1. Configure the bot's parameters such as API keys, trading strategy, risk management settings, etc., in the `connect.py` file.
 2. Run the bot using the provided script.
 3. Monitor the bot's performance and adjust settings as necessary.
 
